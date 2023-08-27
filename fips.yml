@@ -1,0 +1,8 @@
+# fips-nanobind
+---
+
+exports:
+    header-dirs:
+        - nanobind/include
+    modules :
+        nanobind: .
