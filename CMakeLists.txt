@@ -1,7 +1,7 @@
 #
 # project: fips-nanobind
 #
-cmake_minimum_required(VERSION 3.27)
+cmake_minimum_required(VERSION 3.26)
 
 find_package(Python 3.8  REQUIRED COMPONENTS Interpreter Development.Module)
 
